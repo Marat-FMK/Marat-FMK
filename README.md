@@ -5,7 +5,7 @@ IOS Developer
 Я разработчик на языке SWIFT. Мне интересно писать приложения под платформу IOS и открывать интересные способы решения задач. Сейчас активно изучаю SwiftUI.
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [Telegram Marat-FMK](https://t.me/Marat_FMK)  and  [marat.fmk@yandex.ru](mailto:marat.fmk@yandex.ru)
-* 🚀  I'm currently working on [EventHub](http://github.com/Marat-FMK/EventHub)
+* 🚀  I'm currently working on [MovieMax](https://github.com/Marat-FMK/Moviemax)
 * 🧠  I'm learning SwiftUI
 * 🤝  I'm open to collaborating on It's interesting to work on projects with maps or music right now
 
