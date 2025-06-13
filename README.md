@@ -8,7 +8,7 @@ IOS Developer
 * 💼  My portfolio [Gamma](https://ios--v5vg985.gamma.site/)
 * 🚀  I'm currently working on [MovieMax](https://github.com/Marat-FMK/Moviemax)
 * 🧠  I'm learning SwiftUI
-* 🤝  I'm open to collaborating on It's interesting to work on projects with maps or music right now
+* 🤝  I'm open to collaborating on It's interesting to work on projects with maps or music right now 
 
 <a href="https://www.github.com/Marat-FMK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Marat-FMK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
